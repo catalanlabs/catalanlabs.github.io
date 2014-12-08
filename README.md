@@ -1,4 +1,4 @@
-catalanlabs.github.io
+Catalan Labs
 =====================
 
 The official website
