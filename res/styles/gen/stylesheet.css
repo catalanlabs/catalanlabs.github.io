@@ -1068,7 +1068,7 @@ td, th {
 body {
   background: #f9f9f9;
   color: #2d2d2d;
-  font: 16px/21px "Segoe UI Light", "Segoe UI", "Open Sans", "Raleway", Candara, Calibri, Segoe, Optima, Arial, sans-serif }
+  font: 16px/21px 'Lato', sans-serif, "Raleway", Candara, Calibri, Segoe, Optima, Arial, sans-serif }
   @media only screen and (max-width: 27em) {
     body {
       font-size: 14px; } }
@@ -1087,7 +1087,7 @@ img {
 
 h1, h2, h3, h4 {
   line-height: 1.5em;
-  font-family: "Segoe UI Light", "Segoe UI", "Open Sans", "Raleway", Candara, Calibri, Segoe, Optima, Arial, sans-serif;
+  font-family: 'Lato', sans-serif, "Raleway", Candara, Calibri, Segoe, Optima, Arial, sans-serif;
   font-weight: 400;
   margin-bottom: .5em; }
 

@@ -60,6 +60,10 @@ $(function() {
         });
     });
 
+    // Show donate dialog
+    $(".donate-button").on("click", function() {
+       lace.modal.show({ body: $("#donate-dialog").html() });
+    });
 
     // Display team members
     $.getJSON('./res/data/team.json', function (data) {
