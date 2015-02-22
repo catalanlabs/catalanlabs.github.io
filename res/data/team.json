@@ -3,21 +3,35 @@
     "linkedurl": "",
     "avatar": "profile1.jpg",
     "fullname": "Sangeet S",
-    "role": "Co-founder",
+    "role": "Innovationist",
     "bio": "'Impossibilities, I dream . '"
   },
   {
     "linkedurl": "http://in.linkedin.com/in/jerriclynsjohn",
     "avatar": "profile2.jpg",
     "fullname": "Jerric Lyns John",
-    "role": "Co-founder",
+    "role": "Technologist",
     "bio": "'Experienced dreamer and self proclaimed rocket scientist'"
   },
   {
     "linkedurl": "http://in.linkedin.com/in/sandeepsatheesh",
     "avatar": "profile3.jpg",
     "fullname": "Sandeep S",
-    "role": "Co-founder",
+    "role": "Maestro",
     "bio": "'The Realist who puts the heat on these two dreamers'"
+  },
+  {
+    "linkedurl": "http://in.linkedin.com/in/arunbalajeev",
+    "avatar": "profile4.jpg",
+    "fullname": "Arun Balajee V",
+    "role": "Vision Wizard",
+    "bio": "''"
+  },
+  {
+    "linkedurl": "http://in.linkedin.com/in/francescmoll",
+    "avatar": "profile5.jpg",
+    "fullname": "Francesc Moll Echeto",
+    "role": "Mentor",
+    "bio": "'Associate Professor, Universitat Politècnica de Catalunya, Barcelona'"
   }
 ]
