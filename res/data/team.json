@@ -1,6 +1,6 @@
 [
   {
-    "linkedurl": "",
+    "linkedurl": "http://in.linkedin.com/in/sangeetsatheesan",
     "avatar": "profile1.jpg",
     "fullname": "Sangeet S",
     "role": "Innovationist",
@@ -25,13 +25,13 @@
     "avatar": "profile4.jpg",
     "fullname": "Arun Balajee V",
     "role": "Vision Wizard",
-    "bio": "''"
+    "bio": ""
   },
   {
     "linkedurl": "http://in.linkedin.com/in/francescmoll",
     "avatar": "profile5.jpg",
-    "fullname": "Francesc Moll Echeto",
+    "fullname": "Prof. Francesc Moll Echeto",
     "role": "Mentor",
-    "bio": "'Professor, Universitat Politècnica de Catalunya, Barcelona'"
+    "bio": "'Universitat Politècnica de Catalunya, Barcelona'"
   }
 ]
